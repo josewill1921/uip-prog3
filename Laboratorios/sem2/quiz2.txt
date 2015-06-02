@@ -1,0 +1,6 @@
+El modo interactivo
+este modo ejecuta las sentencias de manera directa dando al usuario la facilidad de conocer sus errores y dando un 
+ambiente facil de utilizar.
+
+El modo normal 
+este modo utiliza un interprete que requiere conocimiento en programación para ejecutar luego en python 
